@@ -15,13 +15,8 @@
 </thead>
 <tbody>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td><a href="https://www.pycon.it/media/conference/slides/introduction-to-data-analysis-with-pandas.pdf">https://www.pycon.it/media/conference/slides/introduction-to-data-analysis-with-pandas.pdf</a></td>
-<td></td>
+<td>Part1: Basic &amp; Visualization, Part 2: Time-Series data of a single item</td>
 <td></td>
 </tr>
 <tr>
