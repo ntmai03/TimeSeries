@@ -30,19 +30,19 @@
 <td>1</td>
 </tr>
 <tr>
-<td><a href="https://towardsdatascience.com/time-series-analysis-in-python-an-introduction-70d5a5b1d52a">https://towardsdatascience.com/time-series-analysis-in-python-an-introduction-70d5a5b1d52a</a></td>
+<td><a href="https://towardsdatascience.com/time-series-analysis-in-python-an-introduction-70d5a5b1d52a">Additive models for time series modeling</a></td>
 <td></td>
-<td></td>
+<td>1</td>
 </tr>
 <tr>
-<td><a href="https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b">https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b</a></td>
+<td><a href="https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b">An End-to-End Project on Time Series Analysis and Forecasting</a></td>
 <td></td>
-<td></td>
+<td>1</td>
 </tr>
 <tr>
-<td><a href="https://www.datacamp.com/courses/introduction-to-time-series-analysis-in-python">https://www.datacamp.com/courses/introduction-to-time-series-analysis-in-python</a></td>
-<td></td>
-<td></td>
+<td><a href="https://www.datacamp.com/courses/introduction-to-time-series-analysis-in-python"># Introduction to Time Series Analysis</a></td>
+<td>Correlation and Autocorrelation</td>
+<td>1</td>
 </tr>
 <tr>
 <td><a href="https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-9-time-series-analysis-in-python-a270cb05e0b3">https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-9-time-series-analysis-in-python-a270cb05e0b3</a></td>
