@@ -15,19 +15,19 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="https://www.pycon.it/media/conference/slides/introduction-to-data-analysis-with-pandas.pdf">https://www.pycon.it/media/conference/slides/introduction-to-data-analysis-with-pandas.pdf</a></td>
+<td><a href="https://www.pycon.it/media/conference/slides/introduction-to-data-analysis-with-pandas.pdf">Intoduction to time series analysis</a></td>
 <td>Part1: Basic &amp; Visualization, Part 2: Time-Series data of a single item</td>
-<td></td>
+<td>2</td>
 </tr>
 <tr>
-<td><a href="https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/">https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/</a></td>
-<td></td>
-<td></td>
+<td><a href="https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/">11 Classical Time Series Forecasting Methods in Python</a></td>
+<td>11 different classical time series forecasting methods</td>
+<td>1</td>
 </tr>
 <tr>
-<td><a href="https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/">https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/</a></td>
-<td></td>
-<td></td>
+<td><a href="https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/">Time Series Forecasting</a></td>
+<td>A comprehensive beginner’s guide to create a Time Series Forecast</td>
+<td>1</td>
 </tr>
 <tr>
 <td><a href="https://towardsdatascience.com/time-series-analysis-in-python-an-introduction-70d5a5b1d52a">https://towardsdatascience.com/time-series-analysis-in-python-an-introduction-70d5a5b1d52a</a></td>
