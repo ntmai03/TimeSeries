@@ -45,34 +45,34 @@
 <td>1</td>
 </tr>
 <tr>
-<td><a href="https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-9-time-series-analysis-in-python-a270cb05e0b3">https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-9-time-series-analysis-in-python-a270cb05e0b3</a></td>
+<td><a href="https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-9-time-series-analysis-in-python-a270cb05e0b3">Time series analysis</a></td>
 <td></td>
-<td></td>
+<td>1</td>
 </tr>
 <tr>
-<td><a href="https://www.kaggle.com/kashnitsky/topic-9-part-1-time-series-analysis-in-python">https://www.kaggle.com/kashnitsky/topic-9-part-1-time-series-analysis-in-python</a></td>
+<td><a href="https://www.kaggle.com/kashnitsky/topic-9-part-1-time-series-analysis-in-python">Time series analysis</a></td>
 <td></td>
-<td></td>
+<td>1</td>
 </tr>
 <tr>
-<td><a href="https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/">https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/</a></td>
-<td></td>
-<td></td>
+<td><a href="https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/">How to Create an ARIMA Model for Time Series Forecasting</a></td>
+<td>ARIMA Model</td>
+<td>1</td>
 </tr>
 <tr>
-<td><a href="https://www.quantinsti.com/blog/time-series-analysis-introduction-python/">https://www.quantinsti.com/blog/time-series-analysis-introduction-python/</a></td>
+<td><a href="https://www.quantinsti.com/blog/time-series-analysis-introduction-python/" title="Permalink to Time Series Analysis: An Introduction In Python">Time Series Analysis: An Introduction</a>](<a href="https://www.quantinsti.com/blog/time-series-analysis-introduction-python/">https://www.quantinsti.com/blog/time-series-analysis-introduction-python/</a>)</td>
 <td></td>
-<td></td>
+<td>1</td>
 </tr>
 <tr>
-<td><a href="https://dataplatform.cloud.ibm.com/exchange/public/entry/view/815137c868b916821dec777bdc23013c">https://dataplatform.cloud.ibm.com/exchange/public/entry/view/815137c868b916821dec777bdc23013c</a></td>
+<td><a href="https://dataplatform.cloud.ibm.com/exchange/public/entry/view/815137c868b916821dec777bdc23013c"># Predicting Spot Exchange Rates with ARIMA</a></td>
 <td></td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
-<td><a href="https://www.vinta.com.br/blog/2018/understanding-time-series-forecasting-python/">https://www.vinta.com.br/blog/2018/understanding-time-series-forecasting-python/</a></td>
+<td><a href="https://www.vinta.com.br/blog/2018/understanding-time-series-forecasting-python/">Understanding Time Series Forecasting</a></td>
 <td></td>
-<td></td>
+<td>1</td>
 </tr>
 <tr>
 <td><a href="https://github.com/rouseguy/TimeSeriesAnalysiswithPython">https://github.com/rouseguy/TimeSeriesAnalysiswithPython</a></td>
