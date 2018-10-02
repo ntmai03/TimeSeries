@@ -15,6 +15,11 @@
 </thead>
 <tbody>
 <tr>
+<td><a href="https://dzone.com/articles/time-series-data-analysis-tutorial-with-pandas">Time Series Data Analysis</a></td>
+<td>Periodicity and Autocorrelation,diet, gym, and finance</td>
+<td>0</td>
+</tr>
+<tr>
 <td><a href="https://www.pycon.it/media/conference/slides/introduction-to-data-analysis-with-pandas.pdf">Intoduction to time series analysis</a></td>
 <td>Part1: Basic &amp; Visualization, Part 2: Time-Series data of a single item</td>
 <td>2</td>
@@ -75,24 +80,19 @@
 <td>1</td>
 </tr>
 <tr>
-<td><a href="https://github.com/rouseguy/TimeSeriesAnalysiswithPython">https://github.com/rouseguy/TimeSeriesAnalysiswithPython</a></td>
+<td><a href="https://github.com/rouseguy/TimeSeriesAnalysiswithPython">Time Series Analysis</a></td>
 <td></td>
-<td></td>
+<td>1</td>
 </tr>
 <tr>
-<td><a href="https://jakevdp.github.io/PythonDataScienceHandbook/03.11-working-with-time-series.html">https://jakevdp.github.io/PythonDataScienceHandbook/03.11-working-with-time-series.html</a></td>
+<td><a href="https://jakevdp.github.io/PythonDataScienceHandbook/03.11-working-with-time-series.html">Working with Time Series</a></td>
 <td></td>
-<td></td>
+<td>2</td>
 </tr>
 <tr>
-<td><a href="https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-visualization-with-python-3">https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-visualization-with-python-3</a></td>
+<td><a href="https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-visualization-with-python-3">A Guide to Time Series Visualization</a></td>
 <td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="https://dzone.com/articles/time-series-data-analysis-tutorial-with-pandas">https://dzone.com/articles/time-series-data-analysis-tutorial-with-pandas</a></td>
-<td></td>
-<td></td>
+<td>2</td>
 </tr>
 <tr>
 <td><a href="https://data-flair.training/blogs/python-time-series/">https://data-flair.training/blogs/python-time-series/</a></td>
