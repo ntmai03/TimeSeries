@@ -20,6 +20,11 @@
 <td>0</td>
 </tr>
 <tr>
+<td><a href="https://chrisalbon.com/python/data_wrangling/pandas_time_series_basics/">pandas Time Series Basics</a></td>
+<td></td>
+<td>0</td>
+</tr>
+<tr>
 <td><a href="https://www.pycon.it/media/conference/slides/introduction-to-data-analysis-with-pandas.pdf">Intoduction to time series analysis</a></td>
 <td>Part1: Basic &amp; Visualization, Part 2: Time-Series data of a single item</td>
 <td>2</td>
@@ -95,54 +100,39 @@
 <td>2</td>
 </tr>
 <tr>
-<td><a href="https://data-flair.training/blogs/python-time-series/">https://data-flair.training/blogs/python-time-series/</a></td>
+<td><a href="https://data-flair.training/blogs/python-time-series/">Python Time Series Analysis – Line, Histogram, Density Plotting</a></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td><a href="https://www.coursera.org/courses?query=time%20series%20analysis">https://www.coursera.org/courses?query=time series analysis</a></td>
+<td><a href="https://www.coursera.org/courses?query=time%20series%20analysis">several courses in time seriers</a></td>
 <td></td>
-<td></td>
+<td>3</td>
 </tr>
 <tr>
-<td><a href="https://dev.to/harishkgarg/-how-to-analyze-time-series-data-in-python-pandas-ih9">https://dev.to/harishkgarg/-how-to-analyze-time-series-data-in-python-pandas-ih9</a></td>
+<td><a href="https://dev.to/harishkgarg/-how-to-analyze-time-series-data-in-python-pandas-ih9">How to Analyze time series data</a></td>
 <td></td>
-<td></td>
+<td>3</td>
 </tr>
 <tr>
-<td><a href="https://www.tutorialspoint.com/python/python_time_series.htm">https://www.tutorialspoint.com/python/python_time_series.htm</a></td>
+<td><a href="https://www.tutorialspoint.com/python/python_time_series.htm">Time series</a></td>
 <td></td>
-<td></td>
+<td>3</td>
 </tr>
 <tr>
-<td><a href="https://byteacademy.co/blog/time-series-python">https://byteacademy.co/blog/time-series-python</a></td>
+<td><a href="https://byteacademy.co/blog/time-series-python">Visualizing Time Series Data of Stock Prices</a></td>
 <td></td>
-<td></td>
+<td>1</td>
 </tr>
 <tr>
-<td><a href="https://chrisalbon.com/python/data_wrangling/pandas_time_series_basics/">https://chrisalbon.com/python/data_wrangling/pandas_time_series_basics/</a></td>
+<td><a href="http://kevinmeurer.com/introduction-to-data-analytics-part-1-time-series-analysis/">Basic Time Series Analysis</a></td>
 <td></td>
-<td></td>
+<td>1</td>
 </tr>
 <tr>
-<td><a href="https://codeburst.io/machine-learning-basic-understand-the-limit-of-trees-with-time-series-data-53875b1f1ef8">https://codeburst.io/machine-learning-basic-understand-the-limit-of-trees-with-time-series-data-53875b1f1ef8</a></td>
+<td><a href="http://intelligentonlinetools.com/blog/tag/time-series-analysis-python/">Correlation between Food and Mood</a></td>
 <td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="http://kevinmeurer.com/introduction-to-data-analytics-part-1-time-series-analysis/">http://kevinmeurer.com/introduction-to-data-analytics-part-1-time-series-analysis/</a></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="http://intelligentonlinetools.com/blog/tag/time-series-analysis-python/">http://intelligentonlinetools.com/blog/tag/time-series-analysis-python/</a></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><a href="https://www.datacamp.com/community/tutorials/time-series-analysis-tutorial?utm_source=adwords_ppc&amp;utm_campaignid=1455363063&amp;utm_adgroupid=65083631748&amp;utm_device=c&amp;utm_keyword=&amp;utm_matchtype=b&amp;utm_network=g&amp;utm_adpostion=6t1&amp;utm_creative=278443377077&amp;utm_targetid=aud-522010995285:dsa-473406571155&amp;utm_loc_interest_ms=&amp;utm_loc_physical_ms=1028581&amp;gclid=Cj0KCQjwrszdBRDWARIsAEEYhrf9YwsAvoB0lLbgZQH51UAg1fa-EZcNUPgZz3Z3gIubQEqSvRpqmW0aAsiKEALw_wcB">https://www.datacamp.com/community/tutorials/time-series-analysis-tutorial?utm_source=adwords_ppc&amp;utm_campaignid=1455363063&amp;utm_adgroupid=65083631748&amp;utm_device=c&amp;utm_keyword=&amp;utm_matchtype=b&amp;utm_network=g&amp;utm_adpostion=6t1&amp;utm_creative=278443377077&amp;utm_targetid=aud-522010995285:dsa-473406571155&amp;utm_loc_interest_ms=&amp;utm_loc_physical_ms=1028581&amp;gclid=Cj0KCQjwrszdBRDWARIsAEEYhrf9YwsAvoB0lLbgZQH51UAg1fa-EZcNUPgZz3Z3gIubQEqSvRpqmW0aAsiKEALw_wcB</a></td>
-<td></td>
-<td></td>
+<td>1</td>
 </tr>
 <tr>
 <td><a href="http://earthpy.org/pandas-basics.html">http://earthpy.org/pandas-basics.html</a></td>
