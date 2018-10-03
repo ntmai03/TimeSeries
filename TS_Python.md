@@ -225,7 +225,7 @@
 <td></td>
 </tr>
 <tr>
-<td></td>
+<td>https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/</td>
 <td></td>
 <td></td>
 </tr>
